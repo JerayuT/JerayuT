@@ -2,7 +2,7 @@ Hi, My name is Tom. Welcome to my Github! I'm an undergraduate at Northwestern a
 
 You can also send me a message through <tjerayu@gmail.com> or learn more about me at <jerayut.github.io>
 
-#Stats:
+# Stats:
 
 <div align = "center">
 
