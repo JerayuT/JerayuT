@@ -4,8 +4,9 @@ You can also send me a message through <tjerayu@gmail.com> or learn more about m
 
 #Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=JerayuT&show_icons=true&theme=gotham&&hide_border=true)
-
-![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=JerayuT&&theme=gotham&&hide_border=true)
+<p float = "left">
+  <img src = "https://github-readme-stats.vercel.app/api?username=JerayuT&show_icons=true&theme=gotham&&hide_border=true" />
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=JerayuT&&theme=gotham&&hide_border=true" />
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerayuT&layout=compact&theme=gotham&hide_border=true)
