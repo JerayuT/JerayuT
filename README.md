@@ -1,22 +1,10 @@
 Hi, My name is Tom. Welcome to my Github! I'm an undergraduate at Northwestern and I like to explore technology through personal projects and club activities. Feel free to explore to learn more about them!
 
-You can also send me a message through <tjerayu@gmail.com> or learn more about me at <jerayut.github.io>
+You can also send me a message through <tjerayu@gmail.com> or learn more about me at [jerayut.github.io](https://jerayut.github.io/)
 
-# Stats:
+# :desktop_computer: Tools, Technology, Experience
 
-<div align = "center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api?username=JerayuT&show_icons=true&theme=codeSTACKr&&hide_border=true)
-
-![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=JerayuT&&theme=codeSTACKr&&hide_border=true)
-
-</div>
-
-___
-
-<div align = "center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerayuT&layout=compact&theme=codeSTACKr&hide_border=true)
+Here are some of the languages and technology I've had experience with, currently using, or learning to use!
 
 <table>
   <tr>
@@ -36,7 +24,7 @@ ___
         height="48"
         alt="CSS3"
       />
-      <br /><strong>CSS3</strong>
+      <br/><strong>CSS3</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -47,8 +35,6 @@ ___
       />
       <br /><strong>JavaScript</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
@@ -96,7 +82,7 @@ ___
       />
       <br /><strong>MATLAB</strong>
     </td>
-      <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
         width="48"
@@ -105,7 +91,32 @@ ___
       />
       <br /><strong>C</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
+        width="48"
+        height="48"
+        alt="Flutter"
+      />
+      <br /><strong>Flutter</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
+        width="48"
+        height="48"
+        alt="Dart"
+      />
+      <br /><strong>Dart</strong>
     </td>
   </tr>
 </table>
-</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerayuT&layout=compact&theme=codeSTACKr&hide_border=true)
+
+
+# :page_facing_up: Current Github Stats:
+
+![Top Langs](https://github-readme-stats.vercel.app/api?username=JerayuT&show_icons=true&theme=codeSTACKr&&hide_border=true)
+
+![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=JerayuT&&theme=codeSTACKr&&hide_border=true)
