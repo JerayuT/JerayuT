@@ -6,7 +6,6 @@ You can also send me a message through <tjerayu@gmail.com> or learn more about m
 
 Here are some of the languages and technology I've had experience with, currently using, or learning to use!
 
-<!--
 <table>
   <tr>
     <td align="center" height="108" width="108">
@@ -112,7 +111,7 @@ Here are some of the languages and technology I've had experience with, currentl
     </td>
   </tr>
 </table>
--->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerayuT&layout=compact&theme=codeSTACKr&hide_border=true)
 
 
