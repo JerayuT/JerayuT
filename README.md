@@ -1,8 +1,14 @@
-Hi, My name is Tom. Welcome to my Github! I'm an undergraduate at Northwestern and I like to explore technology through personal projects and club activities. Feel free to explore to learn more about them!
+Welcome to my Github! My name is Tom and I'm an undergraduate at Northwestern University studying ***Computer Engineering***. I like to explore technology through personal projects and collaborations. Feel free to explore my github to learn more about them!
 
-You can also send me a message through <tjerayu@gmail.com> or learn more about me at [jerayut.github.io](https://jerayut.github.io/)
+You can also:<br>
+:envelope: Send me a message through <tjerayu@gmail.com><br>
+:open_file_folder: Learn more about me at [jerayut.github.io](https://jerayut.github.io/)
 
-# :desktop_computer: Tools, Technology, Experience
+### :computer: *Current Projects*
+
+I'm working on building printed circuit boards (PCBs) to acquire information from the wheel sensors of a car and trasmit them through CAN to be proccessed and displayed on the dash of a racing car as well as developing a calendar app that schedules events and tasks to optimize time and productivity.
+
+### :toolbox: *Tools, Technology, Experience*
 
 Here are some of the languages and technology I have experience with!
 
