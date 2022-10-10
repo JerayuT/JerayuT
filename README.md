@@ -4,7 +4,7 @@ You can also send me a message through <tjerayu@gmail.com> or learn more about m
 
 # :desktop_computer: Tools, Technology, Experience
 
-Here are some of the languages and technology I've had experience with, currently using, or learning to use!
+Here are some of the languages and technology I have experience with!
 
 <table>
   <tr>
@@ -112,6 +112,7 @@ Here are some of the languages and technology I've had experience with, currentl
   </tr>
 </table>
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerayuT&layout=compact&theme=codeSTACKr&hide_border=true)
 
 
@@ -120,3 +121,4 @@ Here are some of the languages and technology I've had experience with, currentl
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=JerayuT&show_icons=true&theme=codeSTACKr&&hide_border=true)
 
 ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=JerayuT&&theme=codeSTACKr&&hide_border=true)
+-->
