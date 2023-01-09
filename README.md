@@ -6,7 +6,7 @@ You can also:<br>
 
 ### :computer: *Current Projects*
 
-I'm working on building printed circuit boards (PCBs) to acquire information from the wheel sensors of a car and trasmit them through CAN to be proccessed and displayed on the dash of a racing car as well as developing a calendar app that schedules events and tasks to optimize time and productivity.
+I'm working on building printed circuit boards (PCBs) to acquire information from the wheel sensors of a car and trasmit them through CAN to be proccessed and displayed on the dash of a racing car as well as developing a machine learning base trading algorithm
 
 ### :toolbox: *Tools, Technology, Experience*
 
