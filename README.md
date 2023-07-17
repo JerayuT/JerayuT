@@ -3,7 +3,7 @@ Welcome to my Github! My name is Tom and I'm an undergraduate at Northwestern Un
 You can also:<br>
 :envelope: Send me a message through <tjerayu@gmail.com><br>
 :open_file_folder: Learn more about me at [jerayut.github.io](https://jerayut.github.io/)
-
+<!---
 ### :computer: *Current Projects*
 
 I'm working on building printed circuit boards (PCBs) to acquire information from the wheel sensors of a car and trasmit them through CAN to be proccessed and displayed on the dash of a racing car as well as developing a machine learning base trading algorithm
@@ -117,7 +117,7 @@ Here are some of the languages and technology I have experience with!
     </td>
   </tr>
 </table>
-
+-->
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerayuT&layout=compact&theme=codeSTACKr&hide_border=true)
 
