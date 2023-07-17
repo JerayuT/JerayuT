@@ -1,9 +1,12 @@
-Welcome to my Github! My name is Tom and I'm an undergraduate at Northwestern University studying ***Computer Engineering***. I like to explore technology through personal projects and collaborations. Feel free to explore my github to learn more about them!
+Welcome to my Github! My name is Tom and I'm an undergraduate at Northwestern University studying ***Computer Engineering*** with a focus on Machine Learning and Signal Processing. I have a pssion for trying to find signals in noisy data. My interest lies in AI/ML probabilistic systems, signal processing, energy grids, long distance wireless energy transmission and algorithmic trading, but I am always open to try new things!
 
 You can also:<br>
 :envelope: Send me a message through <tjerayu@gmail.com><br>
-:open_file_folder: Learn more about me at [jerayut.github.io](https://jerayut.github.io/)
 <!---
+
+ I like to explore technology through personal projects and collaborations. Feel free to explore my github to learn more about them!
+:open_file_folder: Learn more about me at [jerayut.github.io](https://jerayut.github.io/)
+
 ### :computer: *Current Projects*
 
 I'm working on building printed circuit boards (PCBs) to acquire information from the wheel sensors of a car and trasmit them through CAN to be proccessed and displayed on the dash of a racing car as well as developing a machine learning base trading algorithm
