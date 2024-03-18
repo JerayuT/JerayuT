@@ -1,7 +1,7 @@
-Welcome to my Github! My name is Tom and I'm an undergraduate at Northwestern University studying ***Computer Engineering*** with a focus on Machine Learning and Signal Processing. I have a pssion for trying to find signals in noisy data. My interest lies in AI/ML probabilistic systems, signal processing, energy grids, long distance wireless energy transmission and algorithmic trading, but I am always open to try new things!
+Welcome to my Github! My name is Tom and I'm an undergraduate at Northwestern University studying ***Computer Engineering*** and ***Electrical Engineering*** with a focus on Machine Learning and Signal Processing. I have a passion for trying to find signals in noisy data. My interest lies in information processing and analysis, specifically developing intelligent systems / models that are capable of processing complex datasets and producing valuable insights, but I am always open to try new things!
 
 You can also:<br>
-:envelope: Send me a message through <tjerayu@gmail.com><br>
+:envelope: Send me a message through <tomtiamraj2025@u.northwestern.edu><br>
 <!---
 
  I like to explore technology through personal projects and collaborations. Feel free to explore my github to learn more about them!
